@@ -5,6 +5,9 @@ public class demo1 {
     public void test(){
         System.out.println("hello gitHub");
     }
-
+    
+    public void show(){
+        System.out.println("success！");
+    }
 
 }
