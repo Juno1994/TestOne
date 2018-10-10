@@ -1,4 +1,4 @@
-public class demo1 {
+public class Demo1 extends Parent {
     int i = 1;
     String a ="xixi";
 
